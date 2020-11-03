@@ -1,9 +1,10 @@
 h3 {
    color: brown;
+   
 }
 
 img {
-
+   image-resolution: 200*200;
 }
 
 .photos {
